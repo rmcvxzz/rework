@@ -1,16 +1,15 @@
 const express = require('express');
 const router = express.Router();
 const { lbpResponse } = require('../utils/xml');
+const { sendXml } = require('../utils/respond');
 
 router.get('/view.xml', (req, res) => {
     const { policy_type = 'EULA' } = req.query;
 
-    // You can customize this later
-    let policyName = 'Rework Participation Agreement';
-
-    if (policy_type === 'PRIVACY') {
-        policyName = 'Privacy Policy';
-    }
+    const policyName =
+        policy_type === 'PRIVACY'
+            ? 'Rework Privacy Policy'
+            : 'Rework Participation Agreement';
 
     const xml = lbpResponse(`
   <policy 
@@ -20,8 +19,7 @@ router.get('/view.xml', (req, res) => {
   />
     `);
 
-    res.set('Content-Type', 'application/xml');
-    res.send(xml);
+    return sendXml(res, xml);
 });
 
 module.exports = router;
