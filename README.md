@@ -1,3 +1,3 @@
 # Rework
-Custom LittleBigPlanet server made using Node.js
-WIP
+Rework is a custom private server for LittleBigPlanet Karting made on Node.js and Express.
+
