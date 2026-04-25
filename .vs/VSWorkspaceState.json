@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\middleware",
+    "\\src",
     "\\src\\routes",
-    "\\src\\templates",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\start.bat",
+  "SelectedNode": "\\src\\routes\\specs.js",
   "PreviewInSolutionExplorer": false
 }

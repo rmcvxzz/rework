@@ -3,36 +3,196 @@
   "WorkspaceRootPath": "D:\\Downloads\\rework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\specs.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\specs.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\tracks.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\tracks.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\session.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\session.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\news_feed.tally.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\players.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\players.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\content_url.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\content_url.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\favorite_players.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\favorite_players.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\track.create.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\track.create.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\favorite_player_creation.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\favorite_player_creation.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\favorite_player.list.xml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\favorite_player.list.xml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\event.create.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\event.create.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\achievement.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\achievement.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\buddy.replicate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\buddy.replicate.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\content_url.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\content_url.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\profanity_filter.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\profanity_filter.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\single_player_game.create_finish_and_post_stats.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\single_player_game.create_finish_and_post_stats.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.friends_view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\sub_leaderboard.friends_view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\sub_leaderboard.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\tag.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\tag.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\track.list.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\track.list.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\policy.accept.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\policy.accept.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player_creation_comment.create.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player.info.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player.info.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\planet.profile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\planet.profile.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\misc.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\misc.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\player_glickos.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\player_glickos.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\policies.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\policies.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\resources.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\resources.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\news.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\news.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\store\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\migrate.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\migrate.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\db.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\db.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\servers.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\servers.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\levels.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\levels.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\privacy_setting.show.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\privacy_setting.show.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\favorite_players.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\favorite_players.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\session.login_np.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\session.login_np.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\session.ping.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\session.ping.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\preferences.update.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\preferences.update.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\policy.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\policy.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\utils\\xml.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\xml.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\utils\\respond.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\respond.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\session.set_presence.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\session.set_presence.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\server.select.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\server.select.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\news_feed.tally.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player.to_id.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -47,44 +207,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player_creation_bookmark.tally.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player_creation_comment.create.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\news.js||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\news.js||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\utils\\error.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\error.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\utils\\respond.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\respond.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\utils\\xml.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\xml.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\db.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\db.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\policies.js||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\policies.js||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\servers.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\servers.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\policy.accept.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\policy.accept.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\init-db.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -95,26 +219,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\policy.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\policy.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\session.ping.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\session.ping.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\session.login_np.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\session.login_np.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\server.select.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\server.select.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -123,48 +227,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\middleware\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\levels.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\levels.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\players.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\players.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\routes\\session.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\routes\\session.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\match.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\match.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player.info.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player.info.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\achievement.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\achievement.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player_avatar.update.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\player_avatar.update.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\profanity_filter.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\templates\\profanity_filter.list.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\start.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:start.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\store\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\store\\users.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\rework\\src\\templates\\player_profile.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -178,7 +250,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,462 +266,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "news_feed.tally.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml",
-              "RelativeDocumentMoniker": "src\\templates\\news_feed.tally.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml",
-              "RelativeToolTip": "src\\templates\\news_feed.tally.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T04:57:03.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "favorite_player_creation.list.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\favorite_player_creation.list.xml",
-              "RelativeDocumentMoniker": "src\\templates\\favorite_player_creation.list.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\favorite_player_creation.list.xml",
-              "RelativeToolTip": "src\\templates\\favorite_player_creation.list.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:32.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "favorite_players.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\favorite_players.xml",
-              "RelativeDocumentMoniker": "src\\templates\\favorite_players.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\favorite_players.xml",
-              "RelativeToolTip": "src\\templates\\favorite_players.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:34.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "content_url.list.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\content_url.list.xml",
-              "RelativeDocumentMoniker": "src\\templates\\content_url.list.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\content_url.list.xml",
-              "RelativeToolTip": "src\\templates\\content_url.list.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "track.create.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\track.create.xml",
+              "RelativeDocumentMoniker": "src\\templates\\track.create.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\track.create.xml",
+              "RelativeToolTip": "src\\templates\\track.create.xml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:34.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".env",
-              "DocumentMoniker": "D:\\Downloads\\rework\\.env",
-              "RelativeDocumentMoniker": ".env",
-              "ToolTip": "D:\\Downloads\\rework\\.env",
-              "RelativeToolTip": ".env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T04:49:30.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "package.json",
-              "DocumentMoniker": "D:\\Downloads\\rework\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "D:\\Downloads\\rework\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-23T04:49:10.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "package-lock.json",
-              "DocumentMoniker": "D:\\Downloads\\rework\\package-lock.json",
-              "RelativeDocumentMoniker": "package-lock.json",
-              "ToolTip": "D:\\Downloads\\rework\\package-lock.json",
-              "RelativeToolTip": "package-lock.json",
-              "ViewState": "AgIAAMwFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-23T04:56:02.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "planet.profile.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\planet.profile.xml",
-              "RelativeDocumentMoniker": "src\\templates\\planet.profile.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\planet.profile.xml",
-              "RelativeToolTip": "src\\templates\\planet.profile.xml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:13:20.316Z",
+              "WhenOpened": "2026-04-25T12:32:39.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "player.to_id.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player.to_id.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player.to_id.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player.to_id.xml",
-              "RelativeToolTip": "src\\templates\\player.to_id.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:13:29.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "player_creation.verify.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation.verify.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player_creation.verify.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation.verify.xml",
-              "RelativeToolTip": "src\\templates\\player_creation.verify.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:41:39.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "player_creation_bookmark.tally.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation_bookmark.tally.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player_creation_bookmark.tally.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation_bookmark.tally.xml",
-              "RelativeToolTip": "src\\templates\\player_creation_bookmark.tally.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:41:39.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "player_creation_comment.create.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player_creation_comment.create.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml",
-              "RelativeToolTip": "src\\templates\\player_creation_comment.create.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:41:38.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "policies.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\policies.js",
-              "RelativeDocumentMoniker": "src\\routes\\policies.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\policies.js",
-              "RelativeToolTip": "src\\routes\\policies.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:47:01.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "servers.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\servers.js",
-              "RelativeDocumentMoniker": "src\\routes\\servers.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\servers.js",
-              "RelativeToolTip": "src\\routes\\servers.js",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:12:42.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "policy.accept.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\policy.accept.xml",
-              "RelativeDocumentMoniker": "src\\templates\\policy.accept.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\policy.accept.xml",
-              "RelativeToolTip": "src\\templates\\policy.accept.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:17.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "init-db.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\init-db.js",
-              "RelativeDocumentMoniker": "init-db.js",
-              "ToolTip": "D:\\Downloads\\rework\\init-db.js",
-              "RelativeToolTip": "init-db.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-24T13:21:59.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "news.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\news.js",
-              "RelativeDocumentMoniker": "src\\routes\\news.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\news.js",
-              "RelativeToolTip": "src\\routes\\news.js",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwC8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:40:45.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\index.js",
-              "RelativeDocumentMoniker": "src\\index.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\index.js",
-              "RelativeToolTip": "src\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:50:15.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "db.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\db.js",
-              "RelativeDocumentMoniker": "src\\db.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\db.js",
-              "RelativeToolTip": "src\\db.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:50:03.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "xml.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\xml.js",
-              "RelativeDocumentMoniker": "src\\utils\\xml.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\xml.js",
-              "RelativeToolTip": "src\\utils\\xml.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:37:09.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "respond.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\respond.js",
-              "RelativeDocumentMoniker": "src\\utils\\respond.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\respond.js",
-              "RelativeToolTip": "src\\utils\\respond.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-24T13:18:33.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "error.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\error.js",
-              "RelativeDocumentMoniker": "src\\utils\\error.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\error.js",
-              "RelativeToolTip": "src\\utils\\error.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-24T13:15:39.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "LICENSE",
-              "DocumentMoniker": "D:\\Downloads\\rework\\LICENSE",
-              "RelativeDocumentMoniker": "LICENSE",
-              "ToolTip": "D:\\Downloads\\rework\\LICENSE",
-              "RelativeToolTip": "LICENSE",
-              "ViewState": "AgIAAJACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T10:24:30.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "policy.view.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\policy.view.xml",
-              "RelativeDocumentMoniker": "src\\templates\\policy.view.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\policy.view.xml",
-              "RelativeToolTip": "src\\templates\\policy.view.xml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:29:31.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "session.login_np.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\session.login_np.xml",
-              "RelativeDocumentMoniker": "src\\templates\\session.login_np.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\session.login_np.xml",
-              "RelativeToolTip": "src\\templates\\session.login_np.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:27.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "server.select.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\server.select.xml",
-              "RelativeDocumentMoniker": "src\\templates\\server.select.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\server.select.xml",
-              "RelativeToolTip": "src\\templates\\server.select.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:29:28.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": ".gitattributes",
-              "DocumentMoniker": "D:\\Downloads\\rework\\.gitattributes",
-              "RelativeDocumentMoniker": ".gitattributes",
-              "ToolTip": "D:\\Downloads\\rework\\.gitattributes",
-              "RelativeToolTip": ".gitattributes",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T10:24:29.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "session.ping.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\session.ping.xml",
-              "RelativeDocumentMoniker": "src\\templates\\session.ping.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\session.ping.xml",
-              "RelativeToolTip": "src\\templates\\session.ping.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:26.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "auth.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\auth.js",
-              "RelativeDocumentMoniker": "src\\routes\\auth.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\auth.js",
-              "RelativeToolTip": "src\\routes\\auth.js",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:52:35.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "levels.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\levels.js",
-              "RelativeDocumentMoniker": "src\\routes\\levels.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\levels.js",
-              "RelativeToolTip": "src\\routes\\levels.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:53:10.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "players.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\players.js",
-              "RelativeDocumentMoniker": "src\\routes\\players.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\players.js",
-              "RelativeToolTip": "src\\routes\\players.js",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwD8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-24T13:14:42.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "users.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\users.js",
-              "RelativeDocumentMoniker": "src\\routes\\users.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\users.js",
-              "RelativeToolTip": "src\\routes\\users.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:52:57.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "session.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\session.js",
-              "RelativeDocumentMoniker": "src\\routes\\session.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\session.js",
-              "RelativeToolTip": "src\\routes\\session.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:01:39.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "auth.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\middleware\\auth.js",
-              "RelativeDocumentMoniker": "src\\middleware\\auth.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\middleware\\auth.js",
-              "RelativeToolTip": "src\\middleware\\auth.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T04:52:13.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "player.info.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player.info.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player.info.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player.info.xml",
-              "RelativeToolTip": "src\\templates\\player.info.xml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:13:19.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
               "Title": "achievement.list.xml",
               "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\achievement.list.xml",
               "RelativeDocumentMoniker": "src\\templates\\achievement.list.xml",
@@ -662,33 +292,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "match.txt",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\match.txt",
-              "RelativeDocumentMoniker": "src\\templates\\match.txt",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\match.txt",
-              "RelativeToolTip": "src\\templates\\match.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-23T12:08:31.79Z",
+              "DocumentIndex": 7,
+              "Title": "event.create.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\event.create.xml",
+              "RelativeDocumentMoniker": "src\\templates\\event.create.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\event.create.xml",
+              "RelativeToolTip": "src\\templates\\event.create.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T12:02:41.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "player_avatar.update.xml",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_avatar.update.xml",
-              "RelativeDocumentMoniker": "src\\templates\\player_avatar.update.xml",
-              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_avatar.update.xml",
-              "RelativeToolTip": "src\\templates\\player_avatar.update.xml",
+              "DocumentIndex": 6,
+              "Title": "favorite_player.list.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\favorite_player.list.xml",
+              "RelativeDocumentMoniker": "src\\templates\\favorite_player.list.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\favorite_player.list.xml",
+              "RelativeToolTip": "src\\templates\\favorite_player.list.xml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T10:49:21.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "players.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\players.js",
+              "RelativeDocumentMoniker": "src\\routes\\players.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\players.js",
+              "RelativeToolTip": "src\\routes\\players.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-24T13:14:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "session.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\session.js",
+              "RelativeDocumentMoniker": "src\\routes\\session.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\session.js",
+              "RelativeToolTip": "src\\routes\\session.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:01:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tracks.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\tracks.js",
+              "RelativeDocumentMoniker": "src\\routes\\tracks.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\tracks.js",
+              "RelativeToolTip": "src\\routes\\tracks.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T11:48:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "specs.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\specs.js",
+              "RelativeDocumentMoniker": "src\\routes\\specs.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\specs.js",
+              "RelativeToolTip": "src\\routes\\specs.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T10:39:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "buddy.replicate.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\buddy.replicate.xml",
+              "RelativeDocumentMoniker": "src\\templates\\buddy.replicate.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\buddy.replicate.xml",
+              "RelativeToolTip": "src\\templates\\buddy.replicate.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T13:13:28.566Z",
+              "WhenOpened": "2026-04-25T12:31:45.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 11,
               "Title": "profanity_filter.list.xml",
               "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\profanity_filter.list.xml",
               "RelativeDocumentMoniker": "src\\templates\\profanity_filter.list.xml",
@@ -696,23 +391,630 @@
               "RelativeToolTip": "src\\templates\\profanity_filter.list.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-23T12:08:25.788Z"
+              "WhenOpened": "2026-04-23T12:08:25.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favorite_player_creation.list.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\favorite_player_creation.list.xml",
+              "RelativeDocumentMoniker": "src\\templates\\favorite_player_creation.list.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\favorite_player_creation.list.xml",
+              "RelativeToolTip": "src\\templates\\favorite_player_creation.list.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:32.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "single_player_game.create_finish_and_post_stats.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\single_player_game.create_finish_and_post_stats.xml",
+              "RelativeDocumentMoniker": "src\\templates\\single_player_game.create_finish_and_post_stats.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\single_player_game.create_finish_and_post_stats.xml",
+              "RelativeToolTip": "src\\templates\\single_player_game.create_finish_and_post_stats.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T12:31:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sub_leaderboard.friends_view.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.friends_view.xml",
+              "RelativeDocumentMoniker": "src\\templates\\sub_leaderboard.friends_view.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.friends_view.xml",
+              "RelativeToolTip": "src\\templates\\sub_leaderboard.friends_view.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T12:31:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sub_leaderboard.view.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.view.xml",
+              "RelativeDocumentMoniker": "src\\templates\\sub_leaderboard.view.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\sub_leaderboard.view.xml",
+              "RelativeToolTip": "src\\templates\\sub_leaderboard.view.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T12:31:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tag.list.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\tag.list.xml",
+              "RelativeDocumentMoniker": "src\\templates\\tag.list.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\tag.list.xml",
+              "RelativeToolTip": "src\\templates\\tag.list.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T12:31:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "content_url.list.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\content_url.list.xml",
+              "RelativeDocumentMoniker": "src\\templates\\content_url.list.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\content_url.list.xml",
+              "RelativeToolTip": "src\\templates\\content_url.list.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "planet.profile.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\planet.profile.xml",
+              "RelativeDocumentMoniker": "src\\templates\\planet.profile.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\planet.profile.xml",
+              "RelativeToolTip": "src\\templates\\planet.profile.xml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:13:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "misc.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\misc.js",
+              "RelativeDocumentMoniker": "src\\routes\\misc.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\misc.js",
+              "RelativeToolTip": "src\\routes\\misc.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T11:19:17.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "player.info.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player.info.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player.info.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player.info.xml",
+              "RelativeToolTip": "src\\templates\\player.info.xml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:13:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "player_creation_comment.create.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player_creation_comment.create.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation_comment.create.xml",
+              "RelativeToolTip": "src\\templates\\player_creation_comment.create.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:41:38.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "policy.accept.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\policy.accept.xml",
+              "RelativeDocumentMoniker": "src\\templates\\policy.accept.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\policy.accept.xml",
+              "RelativeToolTip": "src\\templates\\policy.accept.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "track.list.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\track.list.xml",
+              "RelativeDocumentMoniker": "src\\templates\\track.list.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\track.list.xml",
+              "RelativeToolTip": "src\\templates\\track.list.xml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwHYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T11:45:38.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "player_glickos.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\player_glickos.js",
+              "RelativeDocumentMoniker": "src\\routes\\player_glickos.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\player_glickos.js",
+              "RelativeToolTip": "src\\routes\\player_glickos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T11:19:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "policies.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\policies.js",
+              "RelativeDocumentMoniker": "src\\routes\\policies.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\policies.js",
+              "RelativeToolTip": "src\\routes\\policies.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:47:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "resources.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\resources.js",
+              "RelativeDocumentMoniker": "src\\routes\\resources.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\resources.js",
+              "RelativeToolTip": "src\\routes\\resources.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T01:12:11.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "users.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\users.js",
+              "RelativeDocumentMoniker": "src\\routes\\users.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\users.js",
+              "RelativeToolTip": "src\\routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:52:57.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:50:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "news.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\news.js",
+              "RelativeDocumentMoniker": "src\\routes\\news.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\news.js",
+              "RelativeToolTip": "src\\routes\\news.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:40:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "migrate.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\migrate.js",
+              "RelativeDocumentMoniker": "src\\migrate.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\migrate.js",
+              "RelativeToolTip": "src\\migrate.js",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-25T11:32:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Downloads\\rework\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\Downloads\\rework\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T04:49:30.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "users.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\store\\users.js",
+              "RelativeDocumentMoniker": "src\\store\\users.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\store\\users.js",
+              "RelativeToolTip": "src\\store\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:51:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "db.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\db.js",
+              "RelativeDocumentMoniker": "src\\db.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\db.js",
+              "RelativeToolTip": "src\\db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:50:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "servers.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\servers.js",
+              "RelativeDocumentMoniker": "src\\routes\\servers.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\servers.js",
+              "RelativeToolTip": "src\\routes\\servers.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:12:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "levels.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\levels.js",
+              "RelativeDocumentMoniker": "src\\routes\\levels.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\levels.js",
+              "RelativeToolTip": "src\\routes\\levels.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:53:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "privacy_setting.show.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\privacy_setting.show.xml",
+              "RelativeDocumentMoniker": "src\\templates\\privacy_setting.show.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\privacy_setting.show.xml",
+              "RelativeToolTip": "src\\templates\\privacy_setting.show.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T10:50:51.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "favorite_players.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\favorite_players.xml",
+              "RelativeDocumentMoniker": "src\\templates\\favorite_players.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\favorite_players.xml",
+              "RelativeToolTip": "src\\templates\\favorite_players.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "session.login_np.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\session.login_np.xml",
+              "RelativeDocumentMoniker": "src\\templates\\session.login_np.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\session.login_np.xml",
+              "RelativeToolTip": "src\\templates\\session.login_np.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:27.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "session.ping.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\session.ping.xml",
+              "RelativeDocumentMoniker": "src\\templates\\session.ping.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\session.ping.xml",
+              "RelativeToolTip": "src\\templates\\session.ping.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T12:08:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "preferences.update.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\preferences.update.xml",
+              "RelativeDocumentMoniker": "src\\templates\\preferences.update.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\preferences.update.xml",
+              "RelativeToolTip": "src\\templates\\preferences.update.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T01:11:09.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
+              "Title": "policy.view.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\policy.view.xml",
+              "RelativeDocumentMoniker": "src\\templates\\policy.view.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\policy.view.xml",
+              "RelativeToolTip": "src\\templates\\policy.view.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:29:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "xml.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\xml.js",
+              "RelativeDocumentMoniker": "src\\utils\\xml.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\xml.js",
+              "RelativeToolTip": "src\\utils\\xml.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T05:37:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "D:\\Downloads\\rework\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "D:\\Downloads\\rework\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T10:24:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Downloads\\rework\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\Downloads\\rework\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T04:49:10.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "respond.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\respond.js",
+              "RelativeDocumentMoniker": "src\\utils\\respond.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\respond.js",
+              "RelativeToolTip": "src\\utils\\respond.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-24T13:18:33.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "session.set_presence.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\session.set_presence.xml",
+              "RelativeDocumentMoniker": "src\\templates\\session.set_presence.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\session.set_presence.xml",
+              "RelativeToolTip": "src\\templates\\session.set_presence.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-25T01:27:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "server.select.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\server.select.xml",
+              "RelativeDocumentMoniker": "src\\templates\\server.select.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\server.select.xml",
+              "RelativeToolTip": "src\\templates\\server.select.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:29:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "news_feed.tally.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml",
+              "RelativeDocumentMoniker": "src\\templates\\news_feed.tally.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\news_feed.tally.xml",
+              "RelativeToolTip": "src\\templates\\news_feed.tally.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-23T04:57:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\Downloads\\rework\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "D:\\Downloads\\rework\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAOAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T04:56:02.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "player.to_id.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player.to_id.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player.to_id.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player.to_id.xml",
+              "RelativeToolTip": "src\\templates\\player.to_id.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:13:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "player_creation.verify.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation.verify.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player_creation.verify.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation.verify.xml",
+              "RelativeToolTip": "src\\templates\\player_creation.verify.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:41:39.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "player_creation_bookmark.tally.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_creation_bookmark.tally.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player_creation_bookmark.tally.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_creation_bookmark.tally.xml",
+              "RelativeToolTip": "src\\templates\\player_creation_bookmark.tally.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:41:39.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "init-db.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\init-db.js",
+              "RelativeDocumentMoniker": "init-db.js",
+              "ToolTip": "D:\\Downloads\\rework\\init-db.js",
+              "RelativeToolTip": "init-db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-24T13:21:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "error.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\utils\\error.js",
+              "RelativeDocumentMoniker": "src\\utils\\error.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\utils\\error.js",
+              "RelativeToolTip": "src\\utils\\error.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-24T13:15:39.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\Downloads\\rework\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "D:\\Downloads\\rework\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AgIAAJACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T10:24:30.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "auth.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\routes\\auth.js",
+              "RelativeDocumentMoniker": "src\\routes\\auth.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\routes\\auth.js",
+              "RelativeToolTip": "src\\routes\\auth.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:52:35.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "auth.js",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\middleware\\auth.js",
+              "RelativeDocumentMoniker": "src\\middleware\\auth.js",
+              "ToolTip": "D:\\Downloads\\rework\\src\\middleware\\auth.js",
+              "RelativeToolTip": "src\\middleware\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T04:52:13.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "match.txt",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\match.txt",
+              "RelativeDocumentMoniker": "src\\templates\\match.txt",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\match.txt",
+              "RelativeToolTip": "src\\templates\\match.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-23T12:08:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "player_avatar.update.xml",
+              "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_avatar.update.xml",
+              "RelativeDocumentMoniker": "src\\templates\\player_avatar.update.xml",
+              "ToolTip": "D:\\Downloads\\rework\\src\\templates\\player_avatar.update.xml",
+              "RelativeToolTip": "src\\templates\\player_avatar.update.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T13:13:28.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
               "Title": "start.bat",
               "DocumentMoniker": "D:\\Downloads\\rework\\start.bat",
               "RelativeDocumentMoniker": "start.bat",
               "ToolTip": "D:\\Downloads\\rework\\start.bat",
               "RelativeToolTip": "start.bat",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPzZTdK0NxGMe/c4G4MieywuzFbDJvo\u002BaCG3dLyZ1SCqWolbysXeDGrQsvCRFJufEviAvbaOWlbHndpk1bm\u002BOGxF4cP\u002BunnDqHxS586tf5Pef59uk5nXqQVjiOo7f0IbFaRr1ELaf1H5H4Mn4jM7W1Cz6TLqtlhItGo2k5Hy4yoTiBUAQ7tiMEww/0zc8ICp9fXuE4duPGd4fHpye4rzywOU8RZn8WCwpdl16EIyze3hIw6LVIJOK4DQThvwvRhDiCwhqtCvF4HCp5McpKZNAoSkkdQ5VWTRPiiEzoQSwWheviGleeW5y6L0kdw57dSRPiCAqLChkUFTBJye7\u002BIRJk2gImD8b6apoQR1BYyEjRYqyHnnxidlYmdBoFWpub4PX7MWgZx8mZC/csS9N8BIWflBbL0NlhgkZZhrmVdSyubaKyXIWZhSUsr27QFJ9vhV/RqZVJ2UBvN/k5FVCrFbTDJ2Wh\u002B/wCh04npmfnYXcckOOgHT4pC3u6OmHu74ODyMaGzJianKAdPikLmXwpDHW12N7aRGODAbm5ObTDh6yvYbK\u002BJGlaX5yPXv4twDtWh9oGyYbOwgAAAABJRU5ErkJggg==",
               "WhenOpened": "2026-04-23T12:03:11.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 59,
               "Title": "player_profile.view.xml",
               "DocumentMoniker": "D:\\Downloads\\rework\\src\\templates\\player_profile.view.xml",
               "RelativeDocumentMoniker": "src\\templates\\player_profile.view.xml",
@@ -721,18 +1023,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2026-04-23T05:50:12.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "users.js",
-              "DocumentMoniker": "D:\\Downloads\\rework\\src\\store\\users.js",
-              "RelativeDocumentMoniker": "src\\store\\users.js",
-              "ToolTip": "D:\\Downloads\\rework\\src\\store\\users.js",
-              "RelativeToolTip": "src\\store\\users.js",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-23T05:51:27.823Z"
             }
           ]
         }

@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const pool = require('../db');
 const { lbpResponse } = require('../utils/xml');
+const { sendXml } = require('../utils/respond');
 
 router.get('/:id/info.xml', async (req, res) => {
     const { id } = req.params;
@@ -57,6 +58,20 @@ router.get('/:id/info.xml', async (req, res) => {
 
     } catch (err) {
         console.error(err);
+        res.status(500).send('Database error');
+    }
+});
+
+router.get('/to_id.xml', async (req, res) => {
+    const { username } = req.query;
+    try {
+        const result = await pool.query(
+            'SELECT id FROM players WHERE username = $1',
+            [username]
+        );
+        if (result.rows.length === 0) return res.status(404).send('Not found');
+        return sendXml(res, lbpResponse(`<player id="${result.rows[0].id}"/>`));
+    } catch (err) {
         res.status(500).send('Database error');
     }
 });

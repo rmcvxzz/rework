@@ -1,12 +1,7 @@
 const { Pool } = require('pg');
 
-let connectionString = process.env.DATABASE_URL;
-
-if (connectionString.includes('sslmode=')) {
-    connectionString = connectionString.replace(/sslmode=[^&]+/, 'sslmode=require');
-} else {
-    connectionString += (connectionString.includes('?') ? '&' : '?') + 'sslmode=require';
-}
+let connectionString = process.env.DATABASE_URL
+    .replace(/[?&]sslmode=[^&]*/g, '');
 
 const pool = new Pool({
     connectionString,
