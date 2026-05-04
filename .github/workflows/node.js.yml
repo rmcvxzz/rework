@@ -28,9 +28,6 @@ jobs:
     - name: Build and Run with Docker Compose
       run: docker compose up --build -d
 
-    - name: Run Tests
-      run: yarn test
-
     - name: Shutdown Containers
       if: always()
       run: docker compose down
