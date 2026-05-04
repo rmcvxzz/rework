@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  server:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - ADMIN_KEY=${ADMIN_KEY}
+    volumes:
+      - ./uploads:/app/uploads
+      - ./src/templates:/app/src/templates
+    restart: unless-stopped

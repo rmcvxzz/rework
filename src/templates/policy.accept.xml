@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<result>
-    <status>
-        <id>0</id>
-        <message>Successful completion</message>
-    </status>
-    <response>
-    </response>
-</result>
+<resource name="policy.accept">
+  <request method="POST" url="api/v1/policy.accept.xml">
+    <param name="id" type="integer" required="true"/>
+    <param name="username" type="string" default="[session]" required="true"/>
+  </request>
+</resource>
